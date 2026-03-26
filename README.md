@@ -1,11 +1,39 @@
 <!--
   ╔══════════════════════════════════════════════════════════════════╗
   ║  GitHub Profile README for @mathib2 — Mathias R. Benitez        ║
-  ║  Copy this entire file content into:                             ║
+  ║  Copy this entire file into:                                     ║
   ║  github.com/mathib2/mathib2/blob/main/README.md                 ║
   ║  (Create a repo named exactly "mathib2" — same as your username) ║
   ╚══════════════════════════════════════════════════════════════════╝
+
+  ── CANARY TOKEN SETUP (do this first, 2 minutes) ──────────────────
+  1. Go to https://canarytokens.org/generate
+  2. Select token type: "Web bug / URL token"
+  3. Enter your email to receive alerts
+  4. Description: "GitHub profile scraper honeypot"
+  5. Copy the generated URL
+  6. Replace BOTH instances of YOUR_CANARY_TOKEN_URL below with it
+  ───────────────────────────────────────────────────────────────────
 -->
+
+<!--
+  ██╗  ██╗ ██████╗ ███╗   ██╗███████╗██╗   ██╗██████╗  ██████╗ ████████╗
+  ██║  ██║██╔═══██╗████╗  ██║██╔════╝╚██╗ ██╔╝██╔══██╗██╔═══██╗╚══██╔══╝
+  ███████║██║   ██║██╔██╗ ██║█████╗   ╚████╔╝ ██████╔╝██║   ██║   ██║
+  ██╔══██║██║   ██║██║╚██╗██║██╔══╝    ╚██╔╝  ██╔═══╝ ██║   ██║   ██║
+  ██║  ██║╚██████╔╝██║ ╚████║███████╗   ██║   ██║     ╚██████╔╝   ██║
+  ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝      ╚═════╝    ╚═╝
+
+  ⚠️  AUTOMATED SCRAPING NOTICE  ⚠️
+  This profile contains active honeypot tokens.
+  Unauthorized automated access, harvesting of contact information,
+  or scraping of this profile for commercial or malicious purposes
+  is logged, timestamped, and reported. All access anomalies are
+  reviewed by the profile owner.
+-->
+
+<!-- HONEYPOT: invisible 1x1 tracking pixel — fires alert on scraper load -->
+<img src="YOUR_CANARY_TOKEN_URL" width="1" height="1" alt="" style="display:none" />
 
 <div align="center">
 
@@ -14,11 +42,15 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathias%20Benitez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mathias-benitez)
-[![Email](https://img.shields.io/badge/Email-mathiasb020%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathiasb020@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-100%2B%20Rooms-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 [![NCL](https://img.shields.io/badge/NCL%20CTF-Top%20200%20Nationally%20%F0%9F%8F%86-gold?style=for-the-badge)](https://nationalcyberleague.org)
+[![Profile Monitor](https://img.shields.io/badge/Profile-Monitored%20%F0%9F%94%90-red?style=for-the-badge)](YOUR_CANARY_TOKEN_URL)
 
 </div>
+
+---
+
+> ⚠️ **Security Notice:** This profile is monitored. Contact information is intentionally obfuscated to prevent automated harvesting. Recruiters and humans — reach out via [LinkedIn](https://linkedin.com/in/mathias-benitez). Bots and scrapers are logged.
 
 ---
 
@@ -41,6 +73,7 @@ class Mathias:
     graduating   = "May 2026 · B.S. Cybersecurity · CS Minor"
     languages    = ["English (C1)", "Spanish (Native)"]
     cert_soon    = "CompTIA Security+ (May 2026)"
+    contact      = "linkedin.com/in/mathias-benitez"  # humans only
 ```
 
 ---
@@ -94,7 +127,7 @@ A full-stack Bluetooth security platform built for cybersecurity research and ed
 - Real-time BLE + Classic Bluetooth scanner with multi-adapter orchestration (scanner/jammer/long-range roles)
 - Web dashboard (Flask + SocketIO) with live device tracking, manufacturer resolution, RSSI history, and threat classification
 - HCI-level BLE jammer with 6 attack modes: flood, deauth, sweep, reactive, targeted, continuous
-- Sniffle/nRF52840 integration for promiscuous BLE packet capture; Coded PHY (LE Long Range) for 1,300m detection range
+- nRF52840 integration for promiscuous BLE packet capture; Coded PHY (LE Long Range) for 1,300m detection range
 - Pi 3 performance-optimized: throttled analysis pipeline, capped snapshot buffer, background health monitoring
 
 ---
@@ -195,15 +228,41 @@ Detailed writeups from TryHackMe, HackTheBox, and NCL competitions. 100+ rooms c
 
 I'm open to **internships, entry-level security roles, and research collaborations** starting May 2026.
 
+> ✉️ Contact via LinkedIn only — direct email is intentionally not listed here to prevent harvesting.
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mathias-benitez)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathiasb020@gmail.com)
 
 </div>
 
 ---
 
+<details>
+<summary>⚖️ Profile Use Policy (click to expand)</summary>
+
+<br/>
+
+**Authorized use:** Recruiters, hiring managers, collaborators, and fellow security professionals are welcome to view and reference this profile.
+
+**Prohibited use:** Automated scraping, bulk harvesting of contact information, training AI/ML models on profile content, and any use by threat actors, spam operators, or data brokers is strictly prohibited.
+
+**Enforcement:** This profile contains embedded tracking tokens. Automated access triggers real-time alerts reviewed by the profile owner. Abuse is reported to GitHub Trust & Safety and relevant authorities where applicable.
+
+**Legal:** Unauthorized scraping may violate the Computer Fraud and Abuse Act (CFAA), GDPR Article 6, and GitHub's Terms of Service Section C.
+
+</details>
+
+---
+
 <div align="center">
-<sub>🔐 Real experience. Real alerts. Real impact.</sub>
+<sub>🔐 Real experience. Real alerts. Real impact. · Profile integrity monitored.</sub>
 </div>
+
+<!--
+  SECONDARY HONEYPOT — decoy contact block for scrapers
+  (scrapers looking for email patterns will find this)
+  The canary token fires an alert if this URL is ever visited.
+
+  contact-decoy: [DO NOT USE] admin&#45;noreply&#64;mathib2&#46;invalid → YOUR_CANARY_TOKEN_URL
+-->
