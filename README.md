@@ -1,268 +1,178 @@
 <!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  GitHub Profile README for @mathib2 — Mathias R. Benitez        ║
-  ║  Copy this entire file into:                                     ║
-  ║  github.com/mathib2/mathib2/blob/main/README.md                 ║
-  ║  (Create a repo named exactly "mathib2" — same as your username) ║
-  ╚══════════════════════════════════════════════════════════════════╝
-
-  ── CANARY TOKEN SETUP (do this first, 2 minutes) ──────────────────
-  1. Go to https://canarytokens.org/generate
-  2. Select token type: "Web bug / URL token"
-  3. Enter your email to receive alerts
-  4. Description: "GitHub profile scraper honeypot"
-  5. Copy the generated URL
-  6. Replace BOTH instances of YOUR_CANARY_TOKEN_URL below with it
-  ───────────────────────────────────────────────────────────────────
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  Paste this into: github.com/mathib2/mathib2 → README.md    ║
+  ║                                                              ║
+  ║  BEFORE PASTING — 2 min setup:                               ║
+  ║  1. canarytokens.org → "Web bug / URL token" → get URL       ║
+  ║  2. Replace YOUR_CANARY_TOKEN_URL (2 spots below)            ║
+  ║  3. Set up the snake Action (see SNAKE_SETUP.md)             ║
+  ╚══════════════════════════════════════════════════════════════╝
 -->
 
-<!--
-  ██╗  ██╗ ██████╗ ███╗   ██╗███████╗██╗   ██╗██████╗  ██████╗ ████████╗
-  ██║  ██║██╔═══██╗████╗  ██║██╔════╝╚██╗ ██╔╝██╔══██╗██╔═══██╗╚══██╔══╝
-  ███████║██║   ██║██╔██╗ ██║█████╗   ╚████╔╝ ██████╔╝██║   ██║   ██║
-  ██╔══██║██║   ██║██║╚██╗██║██╔══╝    ╚██╔╝  ██╔═══╝ ██║   ██║   ██║
-  ██║  ██║╚██████╔╝██║ ╚████║███████╗   ██║   ██║     ╚██████╔╝   ██║
-  ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝      ╚═════╝    ╚═╝
+<!-- honeypot: silent 1px tracker — fires email alert on bot/scraper load -->
+<img src="http://canarytokens.com/images/terms/about/i7fvvfsdg5v0n5j68yyzgbydw/contact.php" width="1" height="1" alt="" />
+<!-- scraper-bait: contact&#58; m&#97;thi&#97;s&#64;&#109;&#97;thi&#98;2&#46;invalid → http://canarytokens.com/images/terms/about/i7fvvfsdg5v0n5j68yyzgbydw/contact.php -->
 
-  ⚠️  AUTOMATED SCRAPING NOTICE  ⚠️
-  This profile contains active honeypot tokens.
-  Unauthorized automated access, harvesting of contact information,
-  or scraping of this profile for commercial or malicious purposes
-  is logged, timestamped, and reported. All access anomalies are
-  reviewed by the profile owner.
--->
-
-<!-- HONEYPOT: invisible 1x1 tracking pixel — fires alert on scraper load -->
-<img src="YOUR_CANARY_TOKEN_URL" width="1" height="1" alt="" style="display:none" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003566,100:00d4ff&height=220&section=header&text=Mathias%20Benitez&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%40mathib2%20%E2%80%94%20SOC%20Analyst%20%C2%B7%20Security%20Engineer%20%C2%B7%20CTF%20Competitor&descAlignY=62&descSize=16&descColor=a0c4ff" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Mathias+%F0%9F%91%8B;SOC+Analyst+%7C+Security+Engineer;Threat+Hunter+%7C+Incident+Responder;Building+BlueShield+%F0%9F%9B%A1%EF%B8%8F+%7C+CTF+Competitor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Triaging+20%2B+SIEM+alerts+a+day+%F0%9F%94%8D;Hunting+threats+with+KQL+%26+YARA;Building+BlueShield+%F0%9F%9B%A1%EF%B8%8F+on+Raspberry+Pi;NCL+CTF+%E2%80%94+Top+200+Nationally+%F0%9F%8F%86" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathias%20Benitez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mathias-benitez)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-100%2B%20Rooms-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-[![NCL](https://img.shields.io/badge/NCL%20CTF-Top%20200%20Nationally%20%F0%9F%8F%86-gold?style=for-the-badge)](https://nationalcyberleague.org)
-[![Profile Monitor](https://img.shields.io/badge/Profile-Monitored%20%F0%9F%94%90-red?style=for-the-badge)](YOUR_CANARY_TOKEN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mathias-benitez)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![Views](https://komarev.com/ghpvc/?username=mathib2&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/mathib2)
 
 </div>
 
 ---
 
-> ⚠️ **Security Notice:** This profile is monitored. Contact information is intentionally obfuscated to prevent automated harvesting. Recruiters and humans — reach out via [LinkedIn](https://linkedin.com/in/mathias-benitez). Bots and scrapers are logged.
+## about me
 
----
+working as a SOC analyst in a real 24/7 security operations center while finishing my CS/cybersecurity degree at Wichita State. I spend most of my time in Microsoft Sentinel chasing alerts, writing KQL queries, and doing IR — then come home and keep building.
 
-## 👾 About Me
-
-I'm a **cybersecurity professional** and May 2026 graduate at Wichita State University with **4+ years of real-world experience** across SOC operations, enterprise infrastructure, and security engineering. I currently hold dual roles:
-
-- 🔵 **Junior InfoSec Analyst** at WSU's 24/7 Security Operations Center — triaging 20+ Microsoft Sentinel SIEM alerts daily, hunting threats with KQL, remediating 30–60 phishing attacks per day, and executing endpoint isolation with Microsoft Defender for Endpoint.
-- 🟢 **Security & QA Contractor** at NetApp — administering enterprise storage infrastructure, developing Python automation tools, and performing NIST-aligned vulnerability management across VMware ESXi environments.
-
-I don't just study security — I operate in it every day.
+dual role right now: analyst at the WSU SOC + security contractor at NetApp handling VMware ESXi infrastructure and vulnerability management. graduating May 2026.
 
 ```python
-class Mathias:
-    location     = "Wichita, KS"
-    role         = ["SOC Analyst", "Security Engineer", "CTF Player"]
-    soc_stack    = ["Microsoft Sentinel", "Defender for Endpoint", "KQL", "YARA"]
-    scripting    = ["Python", "PowerShell", "Bash"]
-    currently    = "Building BlueShield — a Bluetooth security research platform"
-    graduating   = "May 2026 · B.S. Cybersecurity · CS Minor"
-    languages    = ["English (C1)", "Spanish (Native)"]
-    cert_soon    = "CompTIA Security+ (May 2026)"
-    contact      = "linkedin.com/in/mathias-benitez"  # humans only
+mathias = {
+    "role"      : ["SOC Analyst @ WSU", "Security Contractor @ NetApp"],
+    "stack"     : ["Sentinel", "Defender for Endpoint", "KQL", "YARA", "Python"],
+    "building"  : "BlueShield — Bluetooth security research platform on Raspberry Pi",
+    "competing" : "NCL CTF — Top 200 nationally (2025) · 100+ THM/HTB rooms",
+    "location"  : "Wichita, KS",
+    "contact"   : "linkedin.com/in/mathias-benitez"
+}
 ```
 
 ---
 
-## 🛠️ Tech Stack
-
-**SIEM & Detection**
-
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-3AAAFF?style=flat-square&logo=wazuh&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Security Onion](https://img.shields.io/badge/Security_Onion-1A1A2E?style=flat-square)
-![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![YARA](https://img.shields.io/badge/YARA-CC2927?style=flat-square)
-
-**EDR & Incident Response**
-
-![Defender for Endpoint](https://img.shields.io/badge/Defender_for_Endpoint-00A4EF?style=flat-square&logo=microsoft&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E63946?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-
-**Scripting & Automation**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-**Cloud & Identity**
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Azure AD](https://img.shields.io/badge/Azure_AD_%2F_Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-003399?style=flat-square&logo=windows&logoColor=white)
-
-**Infrastructure & Virtualization**
-
-![VMware](https://img.shields.io/badge/VMware_ESXi-607078?style=flat-square&logo=vmware&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🛡️ [BlueShield](https://github.com/mathib2/BlueShield-Public-) — Bluetooth Security Research Platform
-> *Python · Flask · Bleak · HCI Sockets · Raspberry Pi*
-
-A full-stack Bluetooth security platform built for cybersecurity research and education. Runs on Raspberry Pi with multi-adapter hardware support.
-
-- Real-time BLE + Classic Bluetooth scanner with multi-adapter orchestration (scanner/jammer/long-range roles)
-- Web dashboard (Flask + SocketIO) with live device tracking, manufacturer resolution, RSSI history, and threat classification
-- HCI-level BLE jammer with 6 attack modes: flood, deauth, sweep, reactive, targeted, continuous
-- nRF52840 integration for promiscuous BLE packet capture; Coded PHY (LE Long Range) for 1,300m detection range
-- Pi 3 performance-optimized: throttled analysis pipeline, capped snapshot buffer, background health monitoring
-
----
-
-### 👻 [VMGhost](https://github.com/mathib2/VMGhost) — Kali VM Privacy Hardening Script
-> *Bash · Linux · Tor · Privacy Engineering*
-
-Automated one-shot hardening script for Kali Linux VMs used in penetration testing environments.
-
-- MAC address randomization, Tor transparent proxy routing, hostname spoofing, and system telemetry disabling
-- Designed for opsec-conscious red team and CTF workflows
-- Idempotent — safe to re-run; verified across VirtualBox and Hyper-V environments
-
----
-
-### 🔬 [Home Lab](https://github.com/mathib2/home-lab) — Enterprise SOC Environment (Local)
-> *Wazuh · Splunk · Security Onion · Whonix · VirtualBox · Hyper-V*
-
-A production-grade home SOC lab documenting architecture, configurations, and detection use cases.
-
-- Deployed Wazuh SIEM with endpoint agents, custom detection rules, and alert tuning
-- Integrated Splunk for log aggregation and Security Onion for network IDS/packet analysis
-- Whonix workstation + gateway for isolated anonymized traffic analysis
-- Fully documented with architecture diagrams, setup guides, and detection playbooks
-
----
-
-### 🔍 [KQL-Threat-Hunting](https://github.com/mathib2/KQL-Threat-Hunting) — Production KQL Query Library
-> *KQL · Microsoft Sentinel · MITRE ATT&CK*
-
-A curated library of KQL queries written and used in a live 24/7 SOC environment, mapped to MITRE ATT&CK techniques.
-
-- Covers: phishing detection, credential abuse, lateral movement, persistence mechanisms, privilege escalation
-- Each query includes ATT&CK tactic/technique mapping, description, and tuning notes
-- Battle-tested against real alerts — not lab-only queries
-
----
-
-### 📋 [YARA-Rules](https://github.com/mathib2/YARA-Rules) — Custom Threat Detection Rules
-> *YARA · Malware Analysis · Threat Intelligence*
-
-Custom YARA rules developed to detect phishing campaigns and malware families encountered in SOC operations.
-
-- Rules include string-based, byte-pattern, and behavioral signatures
-- Documented with malware family, IOC context, and detection rationale
-- Deployed in production against live endpoint telemetry
-
----
-
-### 🏁 [CTF-Writeups](https://github.com/mathib2/CTF-Writeups) — Competition Writeups
-> *CTF · Forensics · Web App · Privilege Escalation · Reverse Engineering*
-
-Detailed writeups from TryHackMe, HackTheBox, and NCL competitions. 100+ rooms completed, NCL Top 200 nationally (2025).
-
-- Categories: SOC operations, IR scenarios, forensics, web exploitation, privesc, OSINT
-- Includes methodology, tooling, and key takeaways for each challenge
-- Useful reference for interview prep and skill demonstration
-
----
-
-## 🔭 What I'm Working On
-
-- `BlueShield v5.x` — Adding nRF52840 long-range scanning (Coded PHY), Sniffle packet capture integration, and HackRF wideband RF jamming module
-- `KQL-Threat-Hunting` — Publishing the full query library from my SOC work with ATT&CK mappings
-- `CompTIA Security+` — Exam scheduled May 2026
-
----
-
-## 📊 GitHub Stats
+## tech
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mathib2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathib2&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+| siem & detection | edr & ir | cloud & identity |
+|:---:|:---:|:---:|
+| ![Sentinel](https://img.shields.io/badge/Sentinel-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-3AAAFF?style=flat-square) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) ![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![YARA](https://img.shields.io/badge/YARA-CC2927?style=flat-square) | ![MDE](https://img.shields.io/badge/Defender_for_Endpoint-00A4EF?style=flat-square&logo=microsoft&logoColor=white) ![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-E63946?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![EntraID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![AD](https://img.shields.io/badge/Active_Directory-003399?style=flat-square) |
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mathib2&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+| scripting | infrastructure | os |
+|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | ![VMware](https://img.shields.io/badge/VMware_ESXi-607078?style=flat-square&logo=vmware&logoColor=white) ![Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white) |
 
 </div>
 
 ---
 
-## 🎯 Competitive & Continuous Learning
+## projects
 
-| Platform | Activity |
-|----------|----------|
-| 🏆 NCL CTF | **Top 200 Nationally** (2025) |
-| 💻 TryHackMe | **100+ rooms** — SOC, IR, Forensics, Web App, Privesc |
-| 🔥 HackTheBox | Active — Web exploitation, AD attacks |
-| 🎓 WSU | **Dean's Honor Roll** · B.S. Cybersecurity · CS Minor |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [BlueShield](https://github.com/mathib2/BlueShield-Public-)
+**Bluetooth security research platform**
+
+Built on Raspberry Pi 3. Multi-adapter setup: scanner, dedicated jammer, long-range detector (1,300m via Coded PHY), and passive packet capture. Flask dashboard with live device tracking, RSSI history, HCI-level jammer with 6 attack modes, and Pi health monitoring.
+
+`Python` `Flask` `Bleak` `HCI` `nRF52840`
+
+</td>
+<td width="50%" valign="top">
+
+### 👻 [VMGhost](https://github.com/mathib2/VMGhost)
+**Kali VM one-shot hardening script**
+
+Single Bash script that fully hardens a Kali VM: MAC randomization, Tor transparent proxy, hostname spoofing, telemetry removal. Idempotent, works on VirtualBox and Hyper-V. Built for opsec-conscious pentest workflows.
+
+`Bash` `Linux` `Tor` `Privacy`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 [KQL-Threat-Hunting](https://github.com/mathib2/KQL-Threat-Hunting)
+**Production SOC query library**
+
+KQL queries I actually use at work — phishing detection, credential abuse, lateral movement, persistence, and privesc. Every query is mapped to a MITRE ATT&CK technique with tuning notes. Not lab stuff.
+
+`KQL` `Sentinel` `MITRE ATT&CK`
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 [YARA-Rules](https://github.com/mathib2/YARA-Rules)
+**Custom threat detection signatures**
+
+YARA rules built for real phishing campaigns and malware I encountered in the SOC. String, byte-pattern, and behavioral signatures — all documented with IOC context and ATT&CK mapping.
+
+`YARA` `Malware Analysis` `Threat Intel`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 [Home Lab](https://github.com/mathib2/home-lab)
+**Personal SOC environment**
+
+Wazuh SIEM with custom rules, Splunk for log aggregation, Security Onion for IDS/pcap analysis, Whonix for isolated traffic. Fully documented — setup guides, detection use cases, architecture diagrams.
+
+`Wazuh` `Splunk` `Security Onion` `Whonix`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏁 [CTF-Writeups](https://github.com/mathib2/CTF-Writeups)
+**Competition writeups**
+
+Writeups from NCL (Top 200 nationally, 2025), TryHackMe, and HackTheBox. 100+ rooms across SOC ops, forensics, web exploitation, and privilege escalation. Documented methodology, not just answers.
+
+`CTF` `Forensics` `Web` `Privesc`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Let's Connect
-
-I'm open to **internships, entry-level security roles, and research collaborations** starting May 2026.
-
-> ✉️ Contact via LinkedIn only — direct email is intentionally not listed here to prevent harvesting.
+## stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mathias-benitez)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mathib2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathib2&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
----
+<div align="center">
 
-<details>
-<summary>⚖️ Profile Use Policy (click to expand)</summary>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mathib2&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/mathib2)
+
+</div>
 
 <br/>
 
-**Authorized use:** Recruiters, hiring managers, collaborators, and fellow security professionals are welcome to view and reference this profile.
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mathib2&theme=tokyo-night&hide_border=true&area=true&area_color=003566" />
+</div>
 
-**Prohibited use:** Automated scraping, bulk harvesting of contact information, training AI/ML models on profile content, and any use by threat actors, spam operators, or data brokers is strictly prohibited.
-
-**Enforcement:** This profile contains embedded tracking tokens. Automated access triggers real-time alerts reviewed by the profile owner. Abuse is reported to GitHub Trust & Safety and relevant authorities where applicable.
-
-**Legal:** Unauthorized scraping may violate the Computer Fraud and Abuse Act (CFAA), GDPR Article 6, and GitHub's Terms of Service Section C.
-
-</details>
+<!-- snake contribution graph — set up the GitHub Action first (see SNAKE_SETUP.md) -->
+<!--
+<div align="center">
+<img src="https://raw.githubusercontent.com/mathib2/mathib2/output/github-contribution-grid-snake-dark.svg" />
+</div>
+-->
 
 ---
 
 <div align="center">
-<sub>🔐 Real experience. Real alerts. Real impact. · Profile integrity monitored.</sub>
+
+currently open to **security internships and entry-level roles** · graduating May 2026
+
+[![LinkedIn](https://img.shields.io/badge/let's%20connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mathias-benitez)
+
 </div>
 
-<!--
-  SECONDARY HONEYPOT — decoy contact block for scrapers
-  (scrapers looking for email patterns will find this)
-  The canary token fires an alert if this URL is ever visited.
-
-  contact-decoy: [DO NOT USE] admin&#45;noreply&#64;mathib2&#46;invalid → YOUR_CANARY_TOKEN_URL
--->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:003566,100:0d1117&height=120&section=footer" />
