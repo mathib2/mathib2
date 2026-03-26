@@ -163,7 +163,7 @@ Writeups from NCL (Top 200 nationally, 2025), TryHackMe, and HackTheBox. 100+ ro
 <div align="center">
 <img src="https://raw.githubusercontent.com/mathib2/mathib2/output/github-contribution-grid-snake-dark.svg" />
 </div>
--->
+
 
 ---
 
