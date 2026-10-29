@@ -1,14 +1,3 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  Paste this into: github.com/mathib2/mathib2 → README.md    ║
-  ║                                                              ║
-  ║  BEFORE PASTING — 2 min setup:                               ║
-  ║  1. canarytokens.org → "Web bug / URL token" → get URL       ║
-  ║  2. Replace YOUR_CANARY_TOKEN_URL (2 spots below)            ║
-  ║  3. Set up the snake Action (see SNAKE_SETUP.md)             ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
-
 <!-- honeypot: silent 1px tracker — fires email alert on bot/scraper load -->
 <img src="http://canarytokens.com/images/terms/about/i7fvvfsdg5v0n5j68yyzgbydw/contact.php" width="1" height="1" alt="" />
 <!-- scraper-bait: contact&#58; m&#97;thi&#97;s&#64;&#109;&#97;thi&#98;2&#46;invalid → http://canarytokens.com/images/terms/about/i7fvvfsdg5v0n5j68yyzgbydw/contact.php -->
@@ -158,7 +147,6 @@ Writeups from NCL (Top 200 nationally, 2025), TryHackMe, and HackTheBox. 100+ ro
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mathib2&theme=tokyo-night&hide_border=true&area=true&area_color=003566" />
 </div>
 
-<!-- snake contribution graph — set up the GitHub Action first (see SNAKE_SETUP.md) -->
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/mathib2/mathib2/output/github-contribution-grid-snake-dark.svg" />
